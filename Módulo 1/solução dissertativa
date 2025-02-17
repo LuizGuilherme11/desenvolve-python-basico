@@ -1,0 +1,5 @@
+Dissertativo.
+Leia e armazene o número que será multiplicado por 9 #entrada
+subtraia n-1 e armazene como digito n1 #processamento
+subtraia 10-n e armazene como gito n2 #processamento
+impima n1 e n2 e encerre o programa  #saída
