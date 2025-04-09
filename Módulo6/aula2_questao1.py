@@ -5,5 +5,5 @@ lista.append(valores) #adiciona os valores a lista
 ordenados = sorted(valores) #ordena sem alterar a lista original
 print(ordenados)
 print(lista) #lista original
-print(max(valores)) #maior valor da lista
-print(min(valores)) #menor valor da lista
+print(valores.index(max(valores))) #maior valor da lista
+print(valores.index(min(valores))) #menor valor da lista
